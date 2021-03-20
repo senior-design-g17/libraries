@@ -1,2 +1,2 @@
 # libraries
-Put this in C:\Users\maste\Documents\Arduino\libraries
+Put this in Documents\Arduino\libraries
